@@ -5,7 +5,7 @@ NOTE:
 The `# text label` seen at the top of every file is a Document Label, it will automatically label the document when the document is printed via a fax machine.
 PLEASE remove the label and the line its on if you are not printing the document ingame but rather pasting it ingame.
 
-All of these maps work on Windows at 100% UI scale. If there is an issue with how they look on Linux at 100% UI scale, PLEASE make an issue/PR with screenshots!
+All of these forms should display as pictured below on Windows at 100% UI scale. If there is an issue with how they look on Linux at 100% UI scale, PLEASE make an issue/PR with screenshots!
 
 ## Eden Paper-Based Fallback Map
 <img width="468" height="474" alt="edenpapermap" src="https://github.com/user-attachments/assets/a343c95d-c0d4-4990-9d76-5292dcf46db6" />
