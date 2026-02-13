@@ -30,5 +30,5 @@ Looks like the Syndicate are up to something again... What could they be hiding 
 ## Re: Firearms Request
 <img width="382" height="568" alt="firearm request" src="https://github.com/user-attachments/assets/fa62a79b-2376-4681-ba1e-bb5f83ad85a8" />
 
-Looks like someone sent a strongly worded message to a higher up. What kind of weapon did they provide him?!
+Looks like someone sent a strongly worded message to a higher up. What kind of weapon did they provide them?!
 
