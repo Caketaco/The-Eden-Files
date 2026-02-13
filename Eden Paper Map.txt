@@ -1,0 +1,42 @@
+# Eden Paper Map
+[color=#1b67a5]█▄ █ ▀█▀    [head=2]Eden Station[/head]
+█ ▀█     █        [head=3]Paper-based Fallback Map[/head]
+──────────────────────────────────────────[/color]
+[head=2]Please unfold this paper until the information presented on it looks correct.[/head]
+
+     ┌───┐             ┌──────────┐ 
+      │Hell │              │ Hello World!   │ 
+      │o W │↔   ────►  │                │ ↔
+      │orld │              │                │ 
+     └───┘             └──────────┘ 
+
+[head=2]If the information below appears to be a garbled mess, you have not unfolded the paper.[/head]
+[color=#57ba57]
+
+    [color=#1b67a5][head=2]           ┌                          ┐[/head][/color]
+   [color=#1b67a5][head=2]     ────═══╡ [head=1]Eden Station[/head] ╞═══────[/head][/color]
+    [color=#1b67a5][head=2]           └                          ┘[/head][/color]
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀┌───┐⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀┌┘⠀⠀⠀│⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀│⠀[color=#5ed7aa]AI[/color]  ⠀│⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀└────┘⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀┌──┐⠀⠀┌───┐⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀┌──────┘⠀⠀└──┘⠀⠀⠀└────────┐⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀│⠀⠀⠀⠀⠀[color=#cb0000]SEC[/color] ⠀⠀⠀⠀⠀[color=yellow]BRID[/color]⠀⠀  [color=#b18644]CARGO[/color]⠀└┐⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀│⠀⠀⠀⠀⠀╔════════╦═══════╗⠀⠀⠀│⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀┌────┘⠀⠀⠀⠀⠀║[color=#919191]TOOL⠀ ⠀THTR[/color]⠀⠀⠀⠀⠀⠀║⠀⠀⠀│⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀┌───┘⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀║[color=#919191]CRYO[/color]⠀⠀⠀⠀║[color=#919191]VOX[/color]⠀⠀⠀⠀║⠀⠀⠀│⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀│⠀⠀⠀[color=#f39f27]ATMOS[/color]⠀⠀⠀⠀⠀   ║ ⠀⠀⠀ [color=#9fed58]COOK[/color]║[color=#9fed58]BAR[/color] ⠀⠀⠀⠀║⠀⠀⠀└────────┐⠀
+⠀⠀┌─┘⠀⠀⠀⠀⠀⠀⠀⠀⠀[color=#f39f27]ENGI[/color] ⠀║ [color=#919191]LIB[/color]⠀ [color=#9fed58]HYDR[/color] ║⠀⠀⠀⠀⠀⠀⠀╠═══════════⠀│⠀
+⠀⠀│⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀╚════════╬═══════╝⠀⠀⠀⠀⠀┌──────┘⠀
+⠀⠀│⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀[color=#9fed58]JANI[/color]⠀⠀⠀[color=#5b97bc]MED[/color]⠀║⠀[color=#c96dbf]SCI[/color]⠀⠀  ⠀⠀⠀⠀⠀⠀⠀│⠀⠀[color=#919191]EVAC[/color]⠀⠀⠀
+⠀⠀└──────┐⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀║⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀│⠀⠀⠀⠀⠀⠀┌┐
+⠀⠀⠀⠀⠀⠀⠀⠀⠀│⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀└─┐⠀⠀┌┐└┘
+⠀⠀⠀⠀⠀⠀⠀⠀⠀│⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀[color=#919191]CHPL[/color] ⠀⠀┌──┐⠀[color=#919191]DISP[/color]⠀⠀⠀⠀  ⠀⠀⠀⠀│⠀⠀└┘⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀└────┐⠀⠀⠀┌──────┐⠀│⠀⠀│⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀│⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀└───┘⠀⠀⠀⠀⠀⠀│⠀│⠀⠀└─────────────┘⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀└─┘⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀[color=#919191]ARRIVALS[/color][/color]
+
+
+   [color=#1b67a5][head=2]     ──────═════  [color=#1b487e][/head]◥[head=2]N[/head]◣[/color][head=2]  ═════──────[/head][/color]
